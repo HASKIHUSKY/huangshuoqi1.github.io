@@ -17,42 +17,80 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an undergraduate student pursuing a dual Bachelor's degree in **Public Administration and Information Engineering** at Shandong University (Project 985, ARWU #101–150), with a GPA of 92.11/100 and ranking 2nd in the cohort.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research lies at the intersection of **policy informatics, AI-assisted social science research, and disaster governance**. Empirically, I take the implementation of multi-actor public policies as a window to examine collective action in China's governance, focusing on the situational mechanisms linking macro institutional environments and micro behavioral responses. Methodologically, I combine qualitative and quantitative approaches, and explore integrating multimodal data (e.g., text, imagery) into policy analysis.
 
+I work as a Research Assistant at the **Smart State Governance Lab** under the supervision of Assoc. Prof. Liguo Fei (Stanford World's Top 2% Scientist). I have co-authored a peer-reviewed paper published in *International Journal of Disaster Risk Reduction* (SCI JCR Q1, IF=5.3), and have multiple working papers under review or in preparation. I also led the development of an AI-driven catastrophe emergency response platform as a core member of the National Undergraduate Innovation Training Program, which received an "Excellent" completion rating and official software copyright registration.
+
+<!-- Replace with your Google Scholar ID to enable citation badge -->
+<!--
+My Google Scholar profile: <a href='https://scholar.google.com/citations?user=YOUR_ID'>
+  <strong><span id='total_cit'>--</span></strong> citations
+</a>
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+-->
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🏆 Led the team to win the **National Second Prize** in the 19th "Challenge Cup" National College Student Extracurricular Academic & Technological Works Competition.
+- *2024.08*: &nbsp;📄 Our paper on flood vulnerability assessment was published in *International Journal of Disaster Risk Reduction* (SCI JCR Q1).
+- *2024.06*: &nbsp;✅ The National Undergraduate Innovation Training Program project completed with "Excellent" rating and obtained software copyright registration.
+- *2023.06*: &nbsp;🔬 Joined Smart State Governance Lab at Shandong University as a Research Assistant.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDRR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Identification of the critical factors in flood vulnerability assessment based on an improved DEMATEL method under uncertain environments](https://www.sciencedirect.com/science/article/pii/S2212420924002077)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Peng Xue, **Shuoqi Huang**, Kai Xie, Yang Sun, Liguo Fei
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*International Journal of Disaster Risk Reduction*, 2024, 100: 104217. (SCI, JCR Q1, IF=5.3)
+- Proposed a two-step DEMATEL methodology that reduced expert evaluation workload by 94% while maintaining analytical precision.
+- Identified 23 core indicators for community flood vulnerability assessment, supporting evidence-based disaster risk governance and policy prioritization.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Under Review & In Preparation
+- Chen, R., Yu, H., & **Huang, S.** (Under review). How can labor and employment policies boost the development of new quality productive forces? An analysis based on the three-dimensional perspective of policy "tools–content–characteristics". *Yuelu Public Governance*. (In Chinese)
+- **Huang, S.**, Chen, R. (In preparation). How do the benefits of collaboration affect grassroots civil servants' attitudes toward collaboration? Evidence from a survey experiment.
+- **Huang, S.**, Yu, H., Lv, W., & Chen, R. (In preparation). Critical factors identification of employment quality of people with disabilities based on TFN-P2TLR and DEMATEL-ISM-MICMAC.
+- **Huang, S.**, Fei, L., & Chen, R. (In preparation). What influences crisis learning behavior in emergency agencies? Evidence from a survey experiment in China.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* National Second Prize, The 19th "Challenge Cup" National College Student Extracurricular Academic & Technological Works Competition
+- *2024* China National Scholarship
+- *2024* First-Class Excellent Student Award, Shandong University
+- *2024* Outstanding Practice Team, Shandong Provincial "Three Going to the Countryside" Social Practice Program
+- *2023* First-Class Talent Award in Academic Specialty, Research & Innovation, Shandong University
+- *2023* Advanced Individual in Innovation & Entrepreneurship and Social Practice, Shandong University
+- *2023* Outstanding Student, Shandong Provincial "Three Going to the Countryside" Social Practice Program
+- *2023* NCCSEA-Angela Service Award for Educational Public Welfare
+- *2023* Excellent Student Librarian, Shandong University Library
+- *2023* Alumni Scholarship, Shandong University
+- *2023* Merit Student, Shandong University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2027.06 (Expected)*, Bachelor of Public Administration – Information Engineering (Dual Degree), Shandong University, Qingdao, China.
+  - GPA: 92.11/100; Rank: 2/16
+  - Key Courses: Information Retrieval & Data Mining (99%), Image Processing & Computer Vision (98%), Public Crisis Management (99%), Policy Informatics (98%), Python Programming Technology (99%)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🔬 Research Experience
+- *2023.06 - Present*, Research Assistant, Smart State Governance Lab, Shandong University
+  - Supervised by Assoc. Prof. Liguo Fei (Stanford World's Top 2% Scientist)
+  - Conduct research on flood vulnerability assessment and AI-assisted emergency management; co-authored SCI Q1 journal paper.
+  - Led full-stack development of an AI-driven catastrophe emergency response platform as core member of National Undergraduate Innovation Training Program; project rated "Excellent" with RMB 10,000 funding and software copyright registration.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 👥 Leadership & Service
+- *2023.06 - 2025.02*, Founder & Team Leader, "Lumen Governance" Fieldwork Team, SDU SPSPA
+  - Led interdisciplinary fieldwork on grassroots governance and cross-regional police cooperation at the junction of Jiangsu, Shandong, Henan and Anhui provinces.
+- *2022.08 - 2024.08*, Vice President, Dream Torch of College Students (Heze Educational Public Welfare Organization)
+  - Led educational public welfare initiatives serving middle and high school students in Heze City; maintained a talent database of 300+ outstanding university graduates.
+- *2023.06 - 2025.06*, Leader, Library Culture & Publicity Team, Shandong University Library (Qingdao)
+  - Managed official WeChat account and campus cinema; curated the FIRST Public Programming event affiliated with FIRST International Film Festival at Shandong University.
+
+# 💻 Skills
+- **Data Analysis & Visualization**: Python, STATA, SPSS, UCINET, ArcGIS, MATLAB, SQL
+- **AI & LLM Applications**: Alibaba Cloud Certified Associate — LLM (Prompt Engineering, RAG, Agent systems)
+- **Languages**: Mandarin Chinese (Native); English (Academic Reading & Writing, Conversational Speaking)
