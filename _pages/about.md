@@ -23,15 +23,7 @@ My research lies at the intersection of **policy informatics, AI-assisted social
 
 I work as a Research Assistant at the **Smart State Governance Lab** under the supervision of Assoc. Prof. Liguo Fei (Stanford World's Top 2% Scientist). I have co-authored a peer-reviewed paper published in *International Journal of Disaster Risk Reduction* (SCI JCR Q1, IF=5.3), and have multiple working papers under review or in preparation. I also led the development of an AI-driven catastrophe emergency response platform as a core member of the National Undergraduate Innovation Training Program, which received an "Excellent" completion rating and official software copyright registration.
 
-My Google Scholar profile: <a href='https://scholar.google.com/citations?user=mBBxwXUAAAAJ'>
-  <strong><span id='total_cit'>--</span></strong> citations
-</a>
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJDRR 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 [Identification of the critical factors in flood vulnerability assessment based on an improved DEMATEL method under uncertain environments](https://www.sciencedirect.com/science/article/pii/S2212420924002077)
 
@@ -49,14 +41,17 @@ Peng Xue, **Shuoqi Huang**, Kai Xie, Yang Sun, Liguo Fei
 # 🎖 Honors and Awards
 - *2025* China National Scholarship
 - *2025* First-Class Excellent Student Award, Shandong University
-- *2025* First-Class Talent Award in Academic Specialty, Research & Innovation, Shandong University
 - *2025* Merit Student, Shandong University
+- *2025* First-Class Talent Award in Academic Specialty, Shandong University
 - *2024* National Second Prize, The 19th "Challenge Cup" National College Student Extracurricular Academic & Technological Works Competition
 - *2024* Outstanding Practice Team, Shandong Provincial "Three Going to the Countryside" Social Practice Program
 - *2024* NCCSEA-Angela Service Award for Educational Public Welfare
-- *2024* Excellent Student Librarian, Shandong University Library
 - *2024* Alumni Scholarship, Shandong University
-- *2023* Advanced Individual in Innovation & Entrepreneurship and Social Practice, Shandong University
+- *2024* Excellent Student Librarian, Shandong University Library
+- *2023* First-Class Talent Award in Research & Innovation, Shandong University
+- *2023* First-Class Talent Award in Entrepreneurship & Practice, Shandong University
+- *2023* Advanced Individual in Innovation & Entrepreneurship, Shandong University
+- *2023* Advanced Individual in Social Practice, Shandong University
 - *2023* Outstanding Student, Shandong Provincial "Three Going to the Countryside" Social Practice Program
 
 # 📖 Educations
