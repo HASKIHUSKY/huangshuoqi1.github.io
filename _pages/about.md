@@ -32,8 +32,6 @@ Peng Xue, **Shuoqi Huang**, Kai Xie, Yang Sun, Liguo Fei
 *International Journal of Disaster Risk Reduction*, 2024, 100: 104217. (SCI, JCR Q1, IF=5.3)
 - Proposed a two-step DEMATEL methodology that reduced expert evaluation workload by 94% while maintaining analytical precision.
 - Identified 23 core indicators for community flood vulnerability assessment, supporting evidence-based disaster risk governance and policy prioritization.
-</div>
-</div>
 
 ## Under Review & In Preparation
 - Chen, R., Yu, H., & **Huang, S.** (Under review). How can labor and employment policies boost the development of new quality productive forces? An analysis based on the three-dimensional perspective of policy "tools–content–characteristics". *Yuelu Public Governance*. (In Chinese)
