@@ -23,19 +23,10 @@ My research lies at the intersection of **policy informatics, AI-assisted social
 
 I work as a Research Assistant at the **Smart State Governance Lab** under the supervision of Assoc. Prof. Liguo Fei (Stanford World's Top 2% Scientist). I have co-authored a peer-reviewed paper published in *International Journal of Disaster Risk Reduction* (SCI JCR Q1, IF=5.3), and have multiple working papers under review or in preparation. I also led the development of an AI-driven catastrophe emergency response platform as a core member of the National Undergraduate Innovation Training Program, which received an "Excellent" completion rating and official software copyright registration.
 
-<!-- Replace with your Google Scholar ID to enable citation badge -->
-<!--
-My Google Scholar profile: <a href='https://scholar.google.com/citations?user=YOUR_ID'>
+My Google Scholar profile: <a href='https://scholar.google.com/citations?user=mBBxwXUAAAAJ'>
   <strong><span id='total_cit'>--</span></strong> citations
 </a>
 <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
--->
-
-# 🔥 News
-- *2024.11*: &nbsp;🏆 Led the team to win the **National Second Prize** in the 19th "Challenge Cup" National College Student Extracurricular Academic & Technological Works Competition.
-- *2024.08*: &nbsp;📄 Our paper on flood vulnerability assessment was published in *International Journal of Disaster Risk Reduction* (SCI JCR Q1).
-- *2024.06*: &nbsp;✅ The National Undergraduate Innovation Training Program project completed with "Excellent" rating and obtained software copyright registration.
-- *2023.06*: &nbsp;🔬 Joined Smart State Governance Lab at Shandong University as a Research Assistant.
 
 # 📝 Publications 
 
@@ -54,22 +45,19 @@ Peng Xue, **Shuoqi Huang**, Kai Xie, Yang Sun, Liguo Fei
 
 ## Under Review & In Preparation
 - Chen, R., Yu, H., & **Huang, S.** (Under review). How can labor and employment policies boost the development of new quality productive forces? An analysis based on the three-dimensional perspective of policy "tools–content–characteristics". *Yuelu Public Governance*. (In Chinese)
-- **Huang, S.**, Chen, R. (In preparation). How do the benefits of collaboration affect grassroots civil servants' attitudes toward collaboration? Evidence from a survey experiment.
-- **Huang, S.**, Yu, H., Lv, W., & Chen, R. (In preparation). Critical factors identification of employment quality of people with disabilities based on TFN-P2TLR and DEMATEL-ISM-MICMAC.
-- **Huang, S.**, Fei, L., & Chen, R. (In preparation). What influences crisis learning behavior in emergency agencies? Evidence from a survey experiment in China.
 
 # 🎖 Honors and Awards
-- *2024.11* National Second Prize, The 19th "Challenge Cup" National College Student Extracurricular Academic & Technological Works Competition
-- *2024* China National Scholarship
-- *2024* First-Class Excellent Student Award, Shandong University
+- *2025* China National Scholarship
+- *2025* First-Class Excellent Student Award, Shandong University
+- *2025* First-Class Talent Award in Academic Specialty, Research & Innovation, Shandong University
+- *2025* Merit Student, Shandong University
+- *2024* National Second Prize, The 19th "Challenge Cup" National College Student Extracurricular Academic & Technological Works Competition
 - *2024* Outstanding Practice Team, Shandong Provincial "Three Going to the Countryside" Social Practice Program
-- *2023* First-Class Talent Award in Academic Specialty, Research & Innovation, Shandong University
+- *2024* NCCSEA-Angela Service Award for Educational Public Welfare
+- *2024* Excellent Student Librarian, Shandong University Library
+- *2024* Alumni Scholarship, Shandong University
 - *2023* Advanced Individual in Innovation & Entrepreneurship and Social Practice, Shandong University
 - *2023* Outstanding Student, Shandong Provincial "Three Going to the Countryside" Social Practice Program
-- *2023* NCCSEA-Angela Service Award for Educational Public Welfare
-- *2023* Excellent Student Librarian, Shandong University Library
-- *2023* Alumni Scholarship, Shandong University
-- *2023* Merit Student, Shandong University
 
 # 📖 Educations
 - *2022.09 - 2027.06 (Expected)*, Bachelor of Public Administration – Information Engineering (Dual Degree), Shandong University, Qingdao, China.
@@ -83,12 +71,12 @@ Peng Xue, **Shuoqi Huang**, Kai Xie, Yang Sun, Liguo Fei
   - Led full-stack development of an AI-driven catastrophe emergency response platform as core member of National Undergraduate Innovation Training Program; project rated "Excellent" with RMB 10,000 funding and software copyright registration.
 
 # 👥 Leadership & Service
+- *2023.06 - 2025.06*, Leader, Library Culture & Publicity Team, Shandong University Library (Qingdao)
+  - Managed official WeChat account and campus cinema; curated the FIRST Public Programming event affiliated with FIRST International Film Festival at Shandong University.
 - *2023.06 - 2025.02*, Founder & Team Leader, "Lumen Governance" Fieldwork Team, SDU SPSPA
   - Led interdisciplinary fieldwork on grassroots governance and cross-regional police cooperation at the junction of Jiangsu, Shandong, Henan and Anhui provinces.
 - *2022.08 - 2024.08*, Vice President, Dream Torch of College Students (Heze Educational Public Welfare Organization)
-  - Led educational public welfare initiatives serving middle and high school students in Heze City; maintained a talent database of 300+ outstanding university graduates.
-- *2023.06 - 2025.06*, Leader, Library Culture & Publicity Team, Shandong University Library (Qingdao)
-  - Managed official WeChat account and campus cinema; curated the FIRST Public Programming event affiliated with FIRST International Film Festival at Shandong University.
+  - Led educational public welfare initiatives serving middle and high school students in Heze City.
 
 # 💻 Skills
 - **Data Analysis & Visualization**: Python, STATA, SPSS, UCINET, ArcGIS, MATLAB, SQL
